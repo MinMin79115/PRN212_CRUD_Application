@@ -1,0 +1,16 @@
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\bin\Debug\net8.0\BAL.deps.json
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\bin\Debug\net8.0\BAL.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\bin\Debug\net8.0\BAL.pdb
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\bin\Debug\net8.0\DAL.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\bin\Debug\net8.0\DAL.pdb
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\obj\Debug\net8.0\BAL.csproj.AssemblyReference.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\obj\Debug\net8.0\BAL.sourcelink.json
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\obj\Debug\net8.0\BAL.csproj.Up2Date
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\obj\Debug\net8.0\BAL.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\obj\Debug\net8.0\refint\BAL.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\obj\Debug\net8.0\BAL.pdb
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\BAL\obj\Debug\net8.0\ref\BAL.dll
